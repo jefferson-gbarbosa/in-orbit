@@ -72,18 +72,18 @@ O objetivo principal do **In.orbit** é um site desktop de registro de metas com
 ## 💻 Demonstração
 
 <figure style="width: 100%">
-  <figcaption style="margin-bottom: 8px">Criação de uma viagem:</figcaption>
-  <img src="./public/Create goal.png" alt="Criação de uma meta no In.orbit" >
+  <figcaption style="margin-bottom: 8px">Criação de uma meta:</figcaption>
+  <img src="./public/create-goal.png" alt="Criação de uma meta no In.orbit" >
 </figure>
 
 <figure style="width: 100%">
-  <figcaption style="margin-bottom: 8px">Inclusão de convidados:</figcaption>
+  <figcaption style="margin-bottom: 8px">Metas:</figcaption>
   <img src="./public/goals.png" alt="Quadro de metas no In.orbit" >
 </figure>
 
 <figure style="width: 100%">
-  <figcaption style="margin-bottom: 8px">Confirmar criação de uma viagem:</figcaption>
-  <img src="./public/goals(empty).png" alt="Confirmar criação de uma viagem no Plann.er" >
+  <figcaption style="margin-bottom: 8px">Resumo das metas semanais:</figcaption>
+  <img src="./public/goals(empty).png" alt="Resumo de metas no In.orbit" >
 </figure>
 
 ## 🎨 Protótipo
