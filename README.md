@@ -94,7 +94,7 @@ O protótipo do projeto foi desenvolvido utilizando a ferramenta [**Figma**](htt
 
 A API utilizada neste projeto foi desenvolvida pela trilha de Nodejs do NLW Journey. Você pode acessar o repositório do backend [aqui](https://github.com/mathrb22/nlw-journey-nodejs).
 
-🔗 Documentação da API base: [NLW Journey Nodejs API](https://nlw-journey.apidocumentation.com/reference)
+🔗 Documentação da API base: [NLW Journey Nodejs API](https://api-in-orbit.onrender.com/docs)
 
 > **Nota:** Para rodar o frontend em sua máquina, será necessário ter o backend rodando localmente para conexão dos recursos do banco de dados. Siga as instruções no repositório do backend para configurá-lo em sua máquina.
 
@@ -104,7 +104,7 @@ Para baixar o código-fonte do projeto em sua máquina, primeiramente terá que 
 Com o Git instalado, em seu terminal execute o seguinte comando:
 
 ```bash
-git clone https://github.com/mathrb22/nlw-journey-frontend.git
+git clone https://github.com/jefferson-gbarbosa/in-orbit
 ```
 
 Para instalar as dependências e executar o projeto terá que ter instalado em sua máquina o [**node.js**](https://nodejs.org/en/), que vem acompanhado do npm. Instale as dependências usando o comando abaixo:
