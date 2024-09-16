@@ -7,7 +7,7 @@ interface CreateGoalRequest {
     title,
     desiredWeeklyFrequency,
   }: CreateGoalRequest) {
-    await fetch('http://localhost:3333/goals', {
+    await fetch('https://api-in-orbit.onrender.com/goals', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
