@@ -92,7 +92,7 @@ O protótipo do projeto foi desenvolvido utilizando a ferramenta [**Figma**](htt
 
 ## ⚙ Referência da API
 
-A API utilizada neste projeto foi desenvolvida pela trilha de Nodejs do NLW Journey. Você pode acessar o repositório do backend [aqui](https://github.com/mathrb22/nlw-journey-nodejs).
+A API utilizada neste projeto foi desenvolvida pela trilha de Nodejs do NLW Journey. Você pode acessar o repositório do backend [aqui](https://github.com/jefferson-gbarbosa/in-orbit-api).
 
 🔗 Documentação da API base: [NLW Journey Nodejs API](https://api-in-orbit.onrender.com/docs)
 
